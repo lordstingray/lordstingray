@@ -1,4 +1,4 @@
-Experienced Software Engineer specializing in designing and developing dynamic websites using Ruby on Rails with over 6 years of hands-on experience, I've collaborated with diverse development teams, honing my adaptability to varying dynamics and processes. My focus remains on meeting scheduled milestones and deliverables while continuously striving for process enhancements and delivering quality systems that exceed user expectations.
+Experienced Software Engineer specializing in designing and developing dynamic websites using Ruby on Rails with over 6+ years of hands-on experience, I've collaborated with diverse development teams, honing my adaptability to varying dynamics and processes. My focus remains on meeting scheduled milestones and deliverables while continuously striving for process enhancements and delivering quality systems that exceed user expectations.
 
 In the dynamic realm of technology, I maintain a proactive approach to learning, continuously exploring emerging frameworks, tools, and best practices. By participating in hackathons, attending tech conferences, and engaging in online courses, I ensure my skills remain at the cutting edge.
 
