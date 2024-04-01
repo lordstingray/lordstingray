@@ -2,10 +2,10 @@ Experienced Software Engineer specializing in designing and developing dynamic w
 
 In the dynamic realm of technology, I maintain a proactive approach to learning, continuously exploring emerging frameworks, tools, and best practices. By participating in hackathons, attending tech conferences, and engaging in online courses, I ensure my skills remain at the cutting edge.
 
-💻 Technical Proficiencies:
+💻 Technical Proficiencies:  
 In my quest for excellence, I've embraced a comprehensive tech stack aimed at optimizing performance and scalability. My toolkit includes:
 
-Frameworks: Ruby on Rails
+Frameworks: Ruby on Rails  
 Databases: PostgreSQL, MySQL, MongoDB  
 Frontend Technologies: HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js  
 API Development: RESTful APIs, GraphQL, Swagger  
