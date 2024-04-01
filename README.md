@@ -20,7 +20,6 @@ Testing Frameworks: RSpec, Capybara, Selenium, Rswag
 🛠️ Tools & Methodologies:
 
 Project Management: Proficient in Jira, Trello, Asana, and agile methodologies (Scrum, Kanban).
-
 Version Control: Git, GitHub, Bitbucket
 
 Collaboration & Communication: Slack, Microsoft Teams, Zoom, Google Meet
