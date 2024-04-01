@@ -19,14 +19,11 @@ Testing Frameworks: RSpec, Capybara, Selenium, Rswag
 
 🛠️ Tools & Methodologies:
 
-Project Management: Proficient in Jira, Trello, Asana, and agile methodologies (Scrum, Kanban).
-Version Control: Git, GitHub, Bitbucket
-
-Collaboration & Communication: Slack, Microsoft Teams, Zoom, Google Meet
-
-Design Collaboration: Figma, Miro
-
-Code Editors: VS, Sublime, VIM, Nano
+Project Management: Proficient in Jira, Trello, Asana, and agile methodologies (Scrum, Kanban).  
+Version Control: Git, GitHub, Bitbucket  
+Collaboration & Communication: Slack, Microsoft Teams, Zoom, Google Meet  
+Design Collaboration: Figma, Miro  
+Code Editors: VS, Sublime, VIM, Nano  
 
 Well, Thats pretty much all I can think of about me. If you have any queries, feel free to get in touch with me 👍
 
